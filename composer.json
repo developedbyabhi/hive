@@ -1,0 +1,34 @@
+{
+    "name": "abhimanyu/hive",
+    "description": "Hive is a lightweight yet powerful Laravel package designed to track and log user activities across your application. Whether it's page views, logins, form submissions, or custom events, Hive provides real-time insights into user behavior, helping you enhance analytics, improve debugging, and ensure security auditing.With an intuitive dashboard, exportable logs, and actionable analytics, Hive empowers developers to make informed decisions while adhering to global privacy standards.",
+    "keywords": ["laravel", "monitoring", "debugging"],
+    "license": "MIT",
+    
+    "autoload": {
+        "psr-4": {
+            "Abhimanyu\\Hive\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Abhimanyu"
+        }
+    ],
+    "require": {
+        "php": "^8.0",
+        "ext-json": "*",
+        "laravel/framework": "^8.37|^9.0|^10.0|^11.0",
+        "symfony/console": "^5.3|^6.0|^7.0",
+        "symfony/var-dumper": "^5.0|^6.0|^7.0"
+    },
+    "require-dev": {
+        "ext-gd": "*",
+        "guzzlehttp/guzzle": "^6.0|^7.0",
+        "laravel/octane": "^1.4|^2.0|dev-develop",
+        "orchestra/testbench": "^6.40|^7.37|^8.17|^9.0",
+        "phpstan/phpstan": "^1.10",
+        "phpunit/phpunit": "^9.0|^10.5"
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}
