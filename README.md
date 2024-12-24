@@ -140,12 +140,6 @@ git push -u origin main
 
 ---
 
-## 6. Additional Notes
-- Follow semantic versioning for release tags.
-- Use meaningful commit messages.
-- Publish the package to Packagist if desired.
 
----
 
-Congratulations! Your Laravel User Activity package is ready for use and collaboration.
 
