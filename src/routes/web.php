@@ -1,5 +1,7 @@
 <?php
 // src/routes/web.php
+namespace Abhimanyu\Hive\Models;
+
 
 use App\Http\Controllers\ActivityController;
 use App\Exports\ActivityExport;

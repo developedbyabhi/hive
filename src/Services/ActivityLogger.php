@@ -1,8 +1,8 @@
 <?php
 
-namespace App\Services;
+namespace Abhimanyu\Hive\Services;
 
-use App\Models\ActivityLog;
+use Abhimanyu\Hive\Models\ActivityLog;
 use Illuminate\Support\Facades\Request;
 
 class ActivityLogger

@@ -1,6 +1,7 @@
 <?php
 
-namespace App\Models;
+namespace Abhimanyu\Hive\Models;
+
 
 use Illuminate\Database\Eloquent\Model;
 

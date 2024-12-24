@@ -1,9 +1,9 @@
 <?php
 
-namespace App\Http\Middleware;
+namespace Abhimanyu\Hive\Middleware;
 
 use Closure;
-use App\Services\ActivityLogger;
+use Abhimanyu\Hive\Services\ActivityLogger;
 
 class TrackUserActivity
 {

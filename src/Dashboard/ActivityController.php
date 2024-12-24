@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Http\Controllers;
+namespace Abhimanyu\Hive\Dashboard;
 
 use App\Analytics;
 use App\Models\ActivityLog;

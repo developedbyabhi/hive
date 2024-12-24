@@ -2,7 +2,7 @@
 
 namespace App;
 
-use App\Services\ActivityLogger;
+use Abhimanyu\Hive\Services\ActivityLogger;
 
 class Activity
 {

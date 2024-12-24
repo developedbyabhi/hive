@@ -1,9 +1,9 @@
 <?php
 
-namespace App\Providers;
+namespace Abhimanyu\Hive;
 
 use Illuminate\Support\ServiceProvider;
-use App\Services\ActivityLogger;
+use Abhimanyu\Hive\Services\ActivityLogger;
 
 class UserActivityServiceProvider extends ServiceProvider
 {

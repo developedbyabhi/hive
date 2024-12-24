@@ -1,8 +1,8 @@
 <?php
 
-namespace App\Exports;
+namespace Abhimanyu\Hive\Exports;
 
-use App\Models\ActivityLog;
+use Abhimanyu\Hive\Models\ActivityLog;
 use Maatwebsite\Excel\Concerns\FromCollection;
 
 class ActivityExport implements FromCollection
