@@ -2,7 +2,7 @@
 
 namespace App;
 
-use App\Models\ActivityLog;
+use Abhimanyu\Hive\Models\ActivityLog;
 
 class Analytics
 {

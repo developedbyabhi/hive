@@ -29,6 +29,13 @@
         "phpstan/phpstan": "^1.10",
         "phpunit/phpunit": "^9.0|^10.5"
     },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Abhimanyu\\Hive\\UserActivityServiceProvider"
+            ]
+        }
+    },
     "minimum-stability": "stable",
     "prefer-stable": true
 }

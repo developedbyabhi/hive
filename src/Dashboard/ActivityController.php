@@ -3,7 +3,7 @@
 namespace Abhimanyu\Hive\Dashboard;
 
 use App\Analytics;
-use App\Models\ActivityLog;
+use Abhimanyu\Hive\Models\ActivityLog;
 
 class ActivityController extends Controller
 {

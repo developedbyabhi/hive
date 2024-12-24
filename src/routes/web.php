@@ -2,9 +2,8 @@
 // src/routes/web.php
 namespace Abhimanyu\Hive\Models;
 
-
-use App\Http\Controllers\ActivityController;
-use App\Exports\ActivityExport;
+use Abhimanyu\Hive\Dashboard\ActivityController;
+use Abhimanyu\Hive\Exports\ActivityExport;
 use Maatwebsite\Excel\Facades\Excel;
 use Illuminate\Support\Facades\Route;
 
