@@ -29,6 +29,6 @@
         "phpstan/phpstan": "^1.10",
         "phpunit/phpunit": "^9.0|^10.5"
     },
-    "minimum-stability": "stable",
+    "minimum-stability": "dev",
     "prefer-stable": true
 }
